@@ -1,0 +1,26 @@
+{
+  "dna": "4aa84e0da2f8968b7b2bf97b794bea68",
+  "name": "Untitled Project #81",
+  "description": null,
+  "image": "REPLACE-THIS-WITH-YOUR-URL/81.png",
+  "date": 1678124683306,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "GOST",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Emblems",
+      "value": "Stalin"
+    },
+    {
+      "trait_type": "Number",
+      "value": "7"
+    }
+  ],
+  "compiler": "mintables.club"
+}

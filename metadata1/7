@@ -1,0 +1,26 @@
+{
+  "dna": "0b40c660c62c515f26ae02c23b062e83",
+  "name": "Untitled Project #7",
+  "description": null,
+  "image": "REPLACE-THIS-WITH-YOUR-URL/7.png",
+  "date": 1678124679792,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "GOST",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Emblems",
+      "value": "sickle and motol"
+    },
+    {
+      "trait_type": "Number",
+      "value": "9"
+    }
+  ],
+  "compiler": "mintables.club"
+}

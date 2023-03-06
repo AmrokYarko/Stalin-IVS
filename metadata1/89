@@ -1,0 +1,26 @@
+{
+  "dna": "6fd90d29ecd85a492ab3e96abd9d393a",
+  "name": "Untitled Project #89",
+  "description": null,
+  "image": "REPLACE-THIS-WITH-YOUR-URL/89.png",
+  "date": 1678124683981,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "GOST",
+      "value": "White"
+    },
+    {
+      "trait_type": "Emblems",
+      "value": "Stalin"
+    },
+    {
+      "trait_type": "Number",
+      "value": "6"
+    }
+  ],
+  "compiler": "mintables.club"
+}

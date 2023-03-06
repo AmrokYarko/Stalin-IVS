@@ -1,0 +1,26 @@
+{
+  "dna": "bcfd47fdbada9c69c679037c18c61776",
+  "name": "Untitled Project #15",
+  "description": null,
+  "image": "REPLACE-THIS-WITH-YOUR-URL/15.png",
+  "date": 1678124680079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "GOST",
+      "value": "White"
+    },
+    {
+      "trait_type": "Emblems",
+      "value": "Lenin"
+    },
+    {
+      "trait_type": "Number",
+      "value": "3"
+    }
+  ],
+  "compiler": "mintables.club"
+}

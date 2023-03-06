@@ -1,0 +1,26 @@
+{
+  "dna": "8dd050914e1dbb2e13b1e61205e84484",
+  "name": "Untitled Project #18",
+  "description": null,
+  "image": "REPLACE-THIS-WITH-YOUR-URL/18.png",
+  "date": 1678124680195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Reddish"
+    },
+    {
+      "trait_type": "GOST",
+      "value": "White"
+    },
+    {
+      "trait_type": "Emblems",
+      "value": "sickle and motol"
+    },
+    {
+      "trait_type": "Number",
+      "value": "5"
+    }
+  ],
+  "compiler": "mintables.club"
+}

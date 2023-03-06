@@ -1,0 +1,26 @@
+{
+  "dna": "9120586d8e0ca687f7f7df9e5a8e7cb3",
+  "name": "Untitled Project #47",
+  "description": null,
+  "image": "REPLACE-THIS-WITH-YOUR-URL/47.png",
+  "date": 1678124681340,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "GOST",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Emblems",
+      "value": "Lenin"
+    },
+    {
+      "trait_type": "Number",
+      "value": "7"
+    }
+  ],
+  "compiler": "mintables.club"
+}

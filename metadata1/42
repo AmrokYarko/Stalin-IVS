@@ -1,0 +1,26 @@
+{
+  "dna": "9068b5262bfa935315f7df89743a67f0",
+  "name": "Untitled Project #42",
+  "description": null,
+  "image": "REPLACE-THIS-WITH-YOUR-URL/42.png",
+  "date": 1678124681114,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "GOST",
+      "value": "White"
+    },
+    {
+      "trait_type": "Emblems",
+      "value": "sickle and motol"
+    },
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "compiler": "mintables.club"
+}

@@ -1,0 +1,26 @@
+{
+  "dna": "ede6c48594fdae8ec8b17e3b3dbe821e",
+  "name": "Untitled Project #86",
+  "description": null,
+  "image": "REPLACE-THIS-WITH-YOUR-URL/86.png",
+  "date": 1678124683685,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "GOST",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Emblems",
+      "value": "sickle and motol"
+    },
+    {
+      "trait_type": "Number",
+      "value": "7"
+    }
+  ],
+  "compiler": "mintables.club"
+}

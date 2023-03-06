@@ -1,0 +1,26 @@
+{
+  "dna": "87dd10299faed103d9441de248b64560",
+  "name": "Untitled Project #61",
+  "description": null,
+  "image": "REPLACE-THIS-WITH-YOUR-URL/61.png",
+  "date": 1678124681976,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "GOST",
+      "value": "White"
+    },
+    {
+      "trait_type": "Emblems",
+      "value": "Lenin"
+    },
+    {
+      "trait_type": "Number",
+      "value": "6"
+    }
+  ],
+  "compiler": "mintables.club"
+}
